@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+    <meta http-equiv="Content-Security-Policy" content="block-all-mixed-content">
+    <title>Ajax Request to Wikimedia, YouTube and Giphy</title>
+    <script crossorigin="anonymous"
+            integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <!--Auth source https://github.com/andreassolberg/jso    AUTH CDN-->
+
+
+    <!-- Link to the local bootstrap css-->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+
+
+</head>
+<body>
+<!--the content here is dynamically created with jQuery-->
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-analytics.js"></script>
+
+<script>
+    // Your web app's Firebase configuration
+    // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+    var firebaseConfig = {
+        apiKey: "AIzaSyA10puE1wTlWiakuCVY8YGcXSqDWwwGQSE",
+        authDomain: "wikigiphy-f0f96.firebaseapp.com",
+        databaseURL: "https://wikigiphy-f0f96.firebaseio.com",
+        projectId: "wikigiphy-f0f96",
+        storageBucket: "wikigiphy-f0f96.appspot.com",
+        messagingSenderId: "453369049472",
+        appId: "1:453369049472:web:874b5af60b936f2a429165",
+        measurementId: "G-0XF1EVZ131"
+    };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+    firebase.analytics();
+</script>
+</body>
+
+<script src="js/ajax.js"></script>
+<!-- bootstrap need this jquery script src to work-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="js/bootstrap.js"></script>
+<script src="https://apis.google.com/js/platform.js"></script>
+<script src="https://unpkg.com/jso/dist/jso.js" type="text/javascript"></script>
+</html>
