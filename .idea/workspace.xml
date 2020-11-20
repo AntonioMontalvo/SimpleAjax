@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3977b406-c7c9-4ebb-8b39-cdbb30f1fd26" name="Default Changelist" comment="Simple ajax request pre Firebase">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-utilities.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-utilities.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-utilities.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-utilities.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/ajax.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.esm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.esm.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.esm.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.esm.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simpleAjax.html" beforeDir="false" />
-    </list>
+    <list default="true" id="3977b406-c7c9-4ebb-8b39-cdbb30f1fd26" name="Default Changelist" comment="Simple ajax request pre Firebase" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +76,7 @@
       <workItem from="1605722646191" duration="7056000" />
       <workItem from="1605811509710" duration="7192000" />
       <workItem from="1605898271551" duration="422000" />
-      <workItem from="1605903733382" duration="1366000" />
+      <workItem from="1605903733382" duration="1692000" />
     </task>
     <task id="LOCAL-00001" summary="Simple ajax request pre Firebase">
       <created>1605813881066</created>
@@ -218,6 +185,14 @@
       <screen x="-536" y="-1418" width="2560" height="1418" />
     </state>
     <state x="-291" y="-984" key="Vcs.Push.Dialog.v2/-536.-1418.2560.1418/0.22.1440.878@-536.-1418.2560.1418" timestamp="1605814414514" />
+    <state x="-101" y="-949" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605908413692">
+      <screen x="-536" y="-1418" width="2560" height="1418" />
+    </state>
+    <state x="-101" y="-949" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-536.-1418.2560.1418/0.22.1440.878@-536.-1418.2560.1418" timestamp="1605908413692" />
+    <state x="-136" y="-974" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605908570079">
+      <screen x="-536" y="-1418" width="2560" height="1418" />
+    </state>
+    <state x="-136" y="-974" key="git4idea.remote.GitConfigureRemotesDialog/-536.-1418.2560.1418/0.22.1440.878@-536.-1418.2560.1418" timestamp="1605908570079" />
     <state x="431" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1605065550705">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
